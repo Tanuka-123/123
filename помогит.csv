@@ -1,0 +1,5 @@
+City,Age,Orders,OrdersSum,OrdersCount,Comments
+Moscow,23,"500,800,200,1200",2700,4,
+Moscow,,3000,3000,1,Доп.заказ на 1000 руб
+RostovOnDon,22,"300,200",500,2,
+RostovOnDon, ,"23423,23493",46916,-324,
